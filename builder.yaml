@@ -1,0 +1,1 @@
+buildcmd: python -m pip install . -t build_requirements
